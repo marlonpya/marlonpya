@@ -1,6 +1,6 @@
 <h1 align="center">Marlon Arteaga Morales</h1>
 <p align="center">
-  <b>Mobile Lead · Android &amp; iOS · Kotlin Multiplatform</b><br>
+  <b>Mobile Lead · Android &amp; iOS · Kotlin Multiplatform · Android Instructor @ Zegel</b><br>
   10+ años construyendo apps de producción para banca en Latinoamérica<br>
   <i>10+ years shipping production banking apps across Latin America</i>
 </p>
@@ -16,6 +16,7 @@
 val marlon = MobileLead(
     role       = "Android & iOS Engineer",
     experience = 10.years,
+    teaches    = "Android @ Zegel",
     stack      = listOf("Kotlin", "Swift", "Kotlin Multiplatform"),
     focus      = "Clean Architecture + AI-assisted development",
     based      = "Lima, PE",
@@ -37,11 +38,11 @@ Titulado en Computación e Informática (CIBERTEC) con **más de 10 años** desa
 
 He participado en proyectos para instituciones financieras de Latinoamérica: **Banco de la Nación del Perú, BCP, Interbank, Caja Piura, Banco Nacional de México (Citibanamex), Banco de Crédito e Inversiones (BCI, Chile)** y **Caja de los Andes**.
 
-Actualmente **lidero el equipo mobile** en un proyecto bancario para Interbank (vía Indra), e incorporo IA — **Claude Code, Claude Design y Claude Cowork** — en mi flujo diario para acelerar desarrollo, prototipado de UI y organización de proyectos.
+Actualmente **lidero el equipo mobile** en un proyecto bancario para Interbank (vía Indra) y soy **docente de desarrollo Android en Zegel**, donde enseño Kotlin, arquitectura y buenas prácticas con proyectos aplicados. Incorporo IA — **Claude Code, Claude Design y Claude Cowork** — en mi flujo diario para acelerar desarrollo, prototipado de UI y organización de proyectos.
 
 ## 🇬🇧 About me
 
-Mobile engineer with **10+ years** building production apps for Android and iOS, focused on clean architecture, scalable design and agile delivery. I've shipped banking apps for major Latin American financial institutions and currently **lead a mobile team** on a banking project for Interbank. I integrate AI tooling into my daily workflow for faster, better-engineered delivery.
+Mobile engineer with **10+ years** building production apps for Android and iOS, focused on clean architecture, scalable design and agile delivery. I've shipped banking apps for major Latin American financial institutions and currently **lead a mobile team** on a banking project for Interbank. I also **teach Android development at Zegel**, covering Kotlin, architecture and best practices through hands-on projects. I integrate AI tooling into my daily workflow for faster, better-engineered delivery.
 
 ---
 
@@ -82,6 +83,7 @@ Mobile engineer with **10+ years** building production apps for Android and iOS,
 <p>
 <img src="https://img.shields.io/badge/Unit%20%26%20UI%20Test-25A162?style=flat-square&logo=testinglibrary&logoColor=white">
 <img src="https://img.shields.io/badge/OWASP%20Mobile%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white">
+<img src="https://img.shields.io/badge/DexGuard%20%C2%B7%20Cert%20Pinning-3B4A5A?style=flat-square&logo=letsencrypt&logoColor=white">
 <img src="https://img.shields.io/badge/CI%2FCD%20%C2%B7%20Fastlane-2088FF?style=flat-square&logo=githubactions&logoColor=white">
 <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white">
 </p>
